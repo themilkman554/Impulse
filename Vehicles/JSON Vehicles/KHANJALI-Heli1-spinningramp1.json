@@ -1,0 +1,771 @@
+{
+    "children": [
+        {
+            "position": {
+                "x": -182.018112,
+                "y": -478.221497,
+                "z": 35.788395
+            },
+            "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "name": "Buzzard",
+            "model": "buzzard2",
+            "rotation_order": 2,
+            "target_version": "0.51.2",
+            "children": [
+                {
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 4.52
+                    },
+                    "blip_color": 2,
+                    "model": "prop_pipe_single_01",
+                    "rotation_order": 2,
+                    "target_version": "0.51.2",
+                    "children": [
+                        {
+                            "offset": {
+                                "x": -0.02,
+                                "y": 39.43,
+                                "z": 12.5
+                            },
+                            "blip_color": 2,
+                            "model": "stt_prop_ramp_spiral_l",
+                            "rotation_order": 2,
+                            "target_version": "0.51.2",
+                            "children": [],
+                            "position": {
+                                "x": -205.020309,
+                                "y": -519.023926,
+                                "z": 29.124355
+                            },
+                            "blip_icon": 1,
+                            "rotation": {
+                                "x": 90.0,
+                                "y": 0.0,
+                                "z": -90.0
+                            },
+                            "options": {
+                                "use_soft_pinning": true,
+                                "is_fire_proof": true,
+                                "is_attached": true,
+                                "gravity": 0.0,
+                                "is_visible": true,
+                                "spawn_mode": 1,
+                                "is_frozen": false,
+                                "object_tint": 0,
+                                "is_melee_proof": true,
+                                "is_invincible": true,
+                                "has_gravity": true,
+                                "is_light_on": true,
+                                "is_mission_entity": true,
+                                "is_explosion_proof": true,
+                                "buoyancy": 0.0,
+                                "weight": 0.0,
+                                "is_bullet_proof": true,
+                                "is_networked": true,
+                                "is_driver_visible": true,
+                                "bone_index": 0,
+                                "is_dynamic": true,
+                                "lod_distance": 16960,
+                                "alpha": 255,
+                                "angular_velocity": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0
+                                },
+                                "has_collision": true
+                            },
+                            "name": "stt_prop_ramp_spiral_l",
+                            "world_rotation": {
+                                "x": -50.758907,
+                                "y": 5.974688,
+                                "z": 74.928337
+                            },
+                            "num_bones": 0,
+                            "hash": 1842594658,
+                            "type": "OBJECT"
+                        }
+                    ],
+                    "position": {
+                        "x": -184.104141,
+                        "y": -484.045746,
+                        "z": 36.196632
+                    },
+                    "blip_icon": 1,
+                    "rotation": {
+                        "x": 90.0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "options": {
+                        "use_soft_pinning": true,
+                        "is_fire_proof": true,
+                        "is_attached": true,
+                        "gravity": 0.0,
+                        "is_visible": true,
+                        "spawn_mode": 1,
+                        "is_frozen": false,
+                        "object_tint": 0,
+                        "is_melee_proof": true,
+                        "is_invincible": true,
+                        "has_gravity": true,
+                        "is_light_on": true,
+                        "is_mission_entity": true,
+                        "is_explosion_proof": true,
+                        "buoyancy": 0.0,
+                        "weight": 0.0,
+                        "is_bullet_proof": true,
+                        "is_networked": true,
+                        "is_driver_visible": true,
+                        "bone_index": 29,
+                        "is_dynamic": true,
+                        "lod_distance": 16960,
+                        "alpha": 255,
+                        "angular_velocity": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "has_collision": true
+                    },
+                    "name": "prop_pipe_single_01",
+                    "world_rotation": {
+                        "x": 3.775376,
+                        "y": 140.911682,
+                        "z": 160.294266
+                    },
+                    "num_bones": 0,
+                    "hash": 1980814227,
+                    "type": "OBJECT"
+                },
+                {
+                    "options": {
+                        "use_soft_pinning": true,
+                        "is_fire_proof": false,
+                        "is_attached": true,
+                        "gravity": 0.0,
+                        "is_visible": true,
+                        "spawn_mode": 1,
+                        "is_frozen": false,
+                        "object_tint": 0,
+                        "is_melee_proof": false,
+                        "is_invincible": true,
+                        "has_gravity": true,
+                        "is_light_on": true,
+                        "is_mission_entity": true,
+                        "is_explosion_proof": false,
+                        "buoyancy": 0.0,
+                        "weight": 0.0,
+                        "is_bullet_proof": false,
+                        "is_networked": true,
+                        "is_driver_visible": true,
+                        "bone_index": 0,
+                        "is_dynamic": true,
+                        "lod_distance": 16960,
+                        "alpha": 255,
+                        "angular_velocity": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "has_collision": true
+                    },
+                    "offset": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "ped_attributes": {
+                        "seat": -1,
+                        "weapon": [],
+                        "ignore_events": true,
+                        "ped_config_flags": [],
+                        "head_overlays": {
+                            "_4": -1,
+                            "_3": -1,
+                            "_10": -1,
+                            "_5": -1,
+                            "_9": -1,
+                            "_0": -1,
+                            "_7": -1,
+                            "_12": -1,
+                            "_8": -1,
+                            "_2": -1,
+                            "_1": -1,
+                            "_11": -1,
+                            "_6": -1
+                        },
+                        "components": {
+                            "_8": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 1
+                            },
+                            "_10": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 0
+                            },
+                            "_5": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 0
+                            },
+                            "_9": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 0
+                            },
+                            "_4": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 1
+                            },
+                            "_0": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 1
+                            },
+                            "_7": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 0
+                            },
+                            "_6": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 0
+                            },
+                            "_2": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 1
+                            },
+                            "_1": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 0
+                            },
+                            "_11": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 0
+                            },
+                            "_3": {
+                                "drawable_variation": 0,
+                                "texture_variation": 0,
+                                "palette_variation": 1
+                            }
+                        },
+                        "driving_style_index": 1,
+                        "armor": 0,
+                        "props": {
+                            "_8": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_7": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_5": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_9": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_4": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_6": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_2": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_1": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_0": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            },
+                            "_3": {
+                                "drawable_variation": -1,
+                                "texture_variation": -1
+                            }
+                        },
+                        "task_vehicle_drive_speed": 20.0,
+                        "max_health": 200,
+                        "eye_color": -1
+                    },
+                    "model": "a_f_m_bevhills_01",
+                    "rotation_order": 2,
+                    "target_version": "0.51.2",
+                    "children": [],
+                    "name": "Beverly Hills 1",
+                    "position": {
+                        "x": -182.018112,
+                        "y": -478.221497,
+                        "z": 35.788395
+                    },
+                    "rotation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "world_rotation": {
+                        "x": -86.195114,
+                        "y": -7.152702,
+                        "z": 153.125916
+                    },
+                    "blip_icon": 1,
+                    "blip_color": 2,
+                    "num_bones": 110,
+                    "hash": -1106743555,
+                    "type": "PED"
+                }
+            ],
+            "vehicle_attributes": {
+                "headlights": {
+                    "headlight_color": -1,
+                    "headlights_type": false,
+                    "headlights_color": 255
+                },
+                "neon": {
+                    "lights": {
+                        "front": false,
+                        "right": false,
+                        "back": true,
+                        "left": false
+                    },
+                    "color": {
+                        "g": 0,
+                        "r": 255,
+                        "b": 0
+                    }
+                },
+                "mods": {
+                    "_19": false,
+                    "_39": -1,
+                    "_20": false,
+                    "_15": -1,
+                    "_31": -1,
+                    "_48": -1,
+                    "_28": -1,
+                    "_26": -1,
+                    "_11": -1,
+                    "_42": -1,
+                    "_47": -1,
+                    "_27": -1,
+                    "_3": -1,
+                    "_7": -1,
+                    "_22": false,
+                    "_23": -1,
+                    "_30": -1,
+                    "_1": -1,
+                    "_43": -1,
+                    "_34": -1,
+                    "_29": -1,
+                    "_49": -1,
+                    "_44": -1,
+                    "_25": -1,
+                    "_41": -1,
+                    "_0": -1,
+                    "_38": -1,
+                    "_14": -1,
+                    "_18": false,
+                    "_21": false,
+                    "_45": -1,
+                    "_36": -1,
+                    "_32": -1,
+                    "_16": -1,
+                    "_35": -1,
+                    "_37": -1,
+                    "_46": -1,
+                    "_17": false,
+                    "_13": -1,
+                    "_4": -1,
+                    "_33": -1,
+                    "_12": -1,
+                    "_5": -1,
+                    "_8": -1,
+                    "_6": -1,
+                    "_9": -1,
+                    "_2": -1,
+                    "_40": -1,
+                    "_24": -1,
+                    "_10": -1
+                },
+                "paint": {
+                    "extra_colors": {
+                        "pearlescent": 0,
+                        "wheel": 156
+                    },
+                    "primary": {
+                        "paint_type": 0,
+                        "vehicle_standard_color": 0,
+                        "custom_color": [],
+                        "is_custom": false,
+                        "pearlescent_color": 8,
+                        "color": 112
+                    },
+                    "livery2_legacy": -1,
+                    "fade": 0.0,
+                    "livery": -1,
+                    "interior_color": 0,
+                    "dirt_level": 0.0,
+                    "vehicle_custom_color": {
+                        "g": 8,
+                        "r": 8,
+                        "b": 8
+                    },
+                    "dashboard_color": 0,
+                    "color_combo": 0,
+                    "livery_legacy": -1,
+                    "secondary": {
+                        "paint_type": 0,
+                        "vehicle_standard_color": 112,
+                        "is_custom": false,
+                        "custom_color": [],
+                        "color": 112
+                    }
+                },
+                "wheels": {
+                    "tires_burst": [],
+                    "wheel_type": 0,
+                    "tire_smoke_color": {
+                        "g": 255,
+                        "r": 255,
+                        "b": 255
+                    },
+                    "detached": []
+                },
+                "windows": {
+                    "broken": {
+                        "rearright": false,
+                        "front": false,
+                        "midleft": false,
+                        "rear": false,
+                        "midright": false,
+                        "frontright": false
+                    },
+                    "rolled_down": []
+                },
+                "options": {
+                    "search_light": false,
+                    "window_tint": -1,
+                    "license_plate_text": "64XZY420",
+                    "license_plate_type": 4,
+                    "siren": false,
+                    "radio_loud": false,
+                    "bulletproof_tires": false,
+                    "engine_running": true,
+                    "emergency_lights": false
+                },
+                "doors": {
+                    "open": {
+                        "trunk2": false,
+                        "backleft": false,
+                        "trunk": false,
+                        "backright": false,
+                        "hood": false,
+                        "frontleft": false,
+                        "frontright": false
+                    },
+                    "broken": []
+                },
+                "extras": {
+                    "_2": true,
+                    "_1": true,
+                    "_7": true
+                }
+            },
+            "blip_icon": 1,
+            "rotation": {
+                "x": -90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "options": {
+                "use_soft_pinning": true,
+                "is_fire_proof": true,
+                "is_attached": true,
+                "gravity": 0.0,
+                "is_visible": true,
+                "has_collision": true,
+                "alpha": 255,
+                "object_tint": 0,
+                "is_melee_proof": true,
+                "is_invincible": true,
+                "has_gravity": true,
+                "is_light_on": true,
+                "is_mission_entity": true,
+                "spawn_mode": 1,
+                "angular_velocity": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "is_frozen": false,
+                "is_bullet_proof": true,
+                "is_networked": true,
+                "lod_distance": 16960,
+                "is_dynamic": true,
+                "bone_index": 75,
+                "is_driver_visible": true,
+                "is_explosion_proof": true,
+                "buoyancy": 0.0,
+                "weight": 0.0
+            },
+            "blip_color": 2,
+            "world_rotation": {
+                "x": -86.195114,
+                "y": -7.152702,
+                "z": 153.125916
+            },
+            "num_bones": 43,
+            "hash": 745926877,
+            "type": "VEHICLE"
+        }
+    ],
+    "blip_handle": 700121887,
+    "blip_icon": 1,
+    "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "options": {
+        "use_soft_pinning": true,
+        "is_fire_proof": true,
+        "is_attached": false,
+        "gravity": 0.0,
+        "is_visible": true,
+        "is_driver_visible": true,
+        "alpha": 255,
+        "object_tint": 0,
+        "is_melee_proof": true,
+        "weight": 0.0,
+        "has_gravity": true,
+        "is_light_on": true,
+        "is_mission_entity": true,
+        "is_frozen": false,
+        "angular_velocity": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "bone_index": 0,
+        "is_explosion_proof": true,
+        "is_networked": true,
+        "is_invincible": true,
+        "lod_distance": 16960,
+        "has_collision": true,
+        "is_dynamic": true,
+        "is_bullet_proof": true,
+        "buoyancy": 0.0,
+        "spawn_mode": 1
+    },
+    "filepath": "C:\\Users\\John\\AppData\\Roaming\\Stand\\Constructs\\KHANJALI-Heli1-spinningramp1.json",
+    "author": "MoparPrime",
+    "name": "KHANJALI",
+    "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "created": "2024-11-21T03:14:48Z",
+    "model": "KHANJALI",
+    "rotation_order": 2,
+    "target_version": "0.51.2",
+    "blip_color": 2,
+    "num_bones": 105,
+    "position": {
+        "x": -180.543304,
+        "y": -474.212494,
+        "z": 34.914684
+    },
+    "blip_sprite": 1,
+    "filename": "KHANJALI-Heli1-spinningramp1",
+    "world_rotation": {
+        "x": 2.329897,
+        "y": -0.508865,
+        "z": 162.311081
+    },
+    "version": "ConstructorLib 0.51.2",
+    "vehicle_attributes": {
+        "headlights": {
+            "headlight_color": -1,
+            "headlights_type": true,
+            "headlights_color": 255
+        },
+        "neon": {
+            "lights": {
+                "front": true,
+                "right": true,
+                "back": true,
+                "left": true
+            },
+            "color": {
+                "g": 0,
+                "r": 0,
+                "b": 0
+            }
+        },
+        "mods": {
+            "_19": false,
+            "_39": -1,
+            "_35": -1,
+            "_15": -1,
+            "_44": -1,
+            "_48": -1,
+            "_28": -1,
+            "_26": 0,
+            "_11": 3,
+            "_42": -1,
+            "_47": -1,
+            "_27": -1,
+            "_3": -1,
+            "_46": -1,
+            "_5": 0,
+            "_23": 49,
+            "_30": -1,
+            "_14": 57,
+            "_43": -1,
+            "_34": -1,
+            "_29": -1,
+            "_49": -1,
+            "_22": true,
+            "_10": 0,
+            "_41": -1,
+            "_0": -1,
+            "_38": -1,
+            "_1": -1,
+            "_18": true,
+            "_16": 4,
+            "_45": -1,
+            "_36": -1,
+            "_32": -1,
+            "_21": false,
+            "_31": -1,
+            "_37": -1,
+            "_8": -1,
+            "_17": false,
+            "_13": -1,
+            "_4": -1,
+            "_33": -1,
+            "_12": 2,
+            "_6": -1,
+            "_7": -1,
+            "_20": true,
+            "_25": -1,
+            "_2": -1,
+            "_40": -1,
+            "_24": -1,
+            "_9": 0
+        },
+        "paint": {
+            "extra_colors": {
+                "pearlescent": 7,
+                "wheel": 111
+            },
+            "primary": {
+                "paint_type": 7,
+                "vehicle_standard_color": 131,
+                "custom_color": {
+                    "g": 0,
+                    "r": 0,
+                    "b": 0
+                },
+                "is_custom": true,
+                "pearlescent_color": -1,
+                "color": -1
+            },
+            "secondary": {
+                "paint_type": 7,
+                "vehicle_standard_color": 134,
+                "is_custom": true,
+                "custom_color": {
+                    "g": 0,
+                    "r": 0,
+                    "b": 0
+                },
+                "color": -1
+            },
+            "fade": 0.576471,
+            "livery": -1,
+            "color_combo": -1,
+            "vehicle_custom_color": {
+                "g": 217,
+                "r": 217,
+                "b": 217
+            },
+            "interior_color": 155,
+            "dashboard_color": 134,
+            "livery2_legacy": -1,
+            "livery_legacy": -1,
+            "dirt_level": 0.271452
+        },
+        "wheels": {
+            "tires_burst": [],
+            "wheel_type": 0,
+            "detached": [],
+            "tire_smoke_color": {
+                "g": 255,
+                "r": 255,
+                "b": 255
+            }
+        },
+        "windows": {
+            "broken": {
+                "rearright": false,
+                "rearleft": false,
+                "midleft": false,
+                "front": false,
+                "frontleft": false,
+                "rear": false,
+                "midright": false,
+                "frontright": false
+            },
+            "rolled_down": []
+        },
+        "options": {
+            "search_light": false,
+            "window_tint": -1,
+            "license_plate_text": " MOPAR  ",
+            "license_plate_type": 0,
+            "siren": false,
+            "radio_loud": false,
+            "bulletproof_tires": false,
+            "emergency_lights": false,
+            "engine_running": true
+        },
+        "doors": {
+            "open": {
+                "trunk2": false,
+                "backleft": false,
+                "trunk": false,
+                "hood": false,
+                "backright": false,
+                "frontleft": false,
+                "frontright": false
+            },
+            "broken": []
+        },
+        "extras": []
+    },
+    "hash": -1435527158,
+    "type": "VEHICLE"
+}
